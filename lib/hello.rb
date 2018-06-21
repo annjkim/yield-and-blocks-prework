@@ -6,6 +6,8 @@ def hello_t(array)
   end
 end
 
-  array
-else
-  puts "H"
+    array
+  else
+    puts "Hey! No block was given!"
+  end
+end
