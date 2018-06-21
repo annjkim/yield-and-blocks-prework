@@ -6,3 +6,5 @@ def hello_t(array)
   end
 end
 
+  array
+end
